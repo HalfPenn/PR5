@@ -1,0 +1,18 @@
+﻿<Window x:Class="SMSbomber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SMSbomber"
+        mc:Ignorable="d"
+        Title="SMSbomber" Height="450" Width="489.612" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="bt1" Content="Start" HorizontalAlignment="Left" Margin="359,71,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="bt1_Click"/>
+        <Label x:Name="lbNumber" Content="Номер телефона" HorizontalAlignment="Left" Margin="109,45,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lb7" Content="+7" HorizontalAlignment="Left" Margin="84,71,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNumber" HorizontalAlignment="Left" Height="23" Margin="109,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="tbNumber_PreviewTextInput"/>
+        <ComboBox x:Name="cbNumber" HorizontalAlignment="Left" Margin="234,71,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0"/>
+        <TextBox x:Name="tbLog" HorizontalAlignment="Left" Height="319" Margin="0,102,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="484" IsReadOnlyCaretVisible="True"/>
+
+    </Grid>
+</Window>

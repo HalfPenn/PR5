@@ -1,0 +1,15 @@
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\bin\Debug\SMSbomber.exe.config
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\bin\Debug\SMSbomber.exe
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\bin\Debug\SMSbomber.pdb
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.csprojAssemblyReference.cache
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\MainWindow.g.cs
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\App.g.cs
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber_MarkupCompile.cache
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber_MarkupCompile.lref
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\MainWindow.baml
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.g.resources
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.Properties.Resources.resources
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.csproj.GenerateResource.cache
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.csproj.CoreCompileInputs.cache
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.exe
+C:\Users\gener\Desktop\Github\PR5\SMSbomber\SMSbomber\obj\Debug\SMSbomber.pdb
